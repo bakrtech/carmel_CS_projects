@@ -1,0 +1,7 @@
+RADIUS = int(input("Enter the radius of the circle: "))
+SIDE =  int(input("Enter the side of the square: "))
+LENGTH_RECTANGLE =int(input("ENTER THE LENGTH OF THE RECTANGLE: "))
+BREATH_RECTANGLE =int(input("ENTER THE BREATH OF THE RECTANGLE: "))
+print("The area of the circle with radius ",RADIUS," is : ",RADIUS*RADIUS*3.14)
+print("The area of the square is: ",SIDE*SIDE)
+print("The area of the rectangle is : ",2*(LENGTH_RECTANGLE*BREATH_RECTANGLE))
