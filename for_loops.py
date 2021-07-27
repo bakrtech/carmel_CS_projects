@@ -1,3 +1,12 @@
+# This is a single line comment
+"""
+this
+is
+a
+multi
+line
+comment
+"""
 for i in range(3):
     salary = int(input("Enter your salary here:"))
     DA =(125/100)*salary
