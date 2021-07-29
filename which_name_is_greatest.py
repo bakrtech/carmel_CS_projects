@@ -11,6 +11,6 @@ if b > a:
 if c > a:
     if c > b:
         print(c," is the g r eatest")
-if a ==b:
-    if b==c:
-        print("all are equal")
+if a ==b==c:
+    # if b==c:
+    print("all are equal")
