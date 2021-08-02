@@ -10,7 +10,6 @@ if b > a:
         print(b," is the greatest")
 if c > a:
     if c > b:
-        print(c," is the g r eatest")
-if a ==b==c:
-    # if b==c:
-    print("all are equal")
+        print(c," is the greatest")
+if a == b == c:
+    print("all are equal" )
