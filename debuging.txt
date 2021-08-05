@@ -1,0 +1,4 @@
+TYPES of errors:
+SYNTAX error
+SEMANTIC error
+LOGICAL / Runtime  error
