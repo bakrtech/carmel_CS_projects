@@ -7,5 +7,5 @@ for i in range(2,t):
     third = f +s
     f =s
     s = third
-    print(s,end="")
+    print(s,end=" , ")
 
