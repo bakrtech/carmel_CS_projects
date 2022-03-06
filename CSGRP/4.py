@@ -1,0 +1,10 @@
+myDict = eval(input('Enter the dictionary whose items are to be swapped: '))
+print('The given dictionary is: ',myDict)
+i, j = int(input('Enter the index no. of the element to be swapped(assuming dictionary is a tuple): ')), int(input('Enter the index no. of the element to be swapped(assuming dictionary is a tuple): '))
+tupList = list(myDict.items())
+tupList[i], tupList[j] = tupList[j], tupList[i]
+swappedDist = dict(tupList)
+print("Initial dictionary = ", end = " ")
+print(myDict)
+print("Dictionary after swapping = ", end = " ")
+print(swappedDist)
