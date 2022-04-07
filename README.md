@@ -23,14 +23,13 @@
 </p>
 
 
-#### You can find me on:<br>
-  [![in](https://user-images.githubusercontent.com/54376246/123296510-55d57400-d534-11eb-85b1-0835b35f9c35.gif)](https://www.linkedin.com/in/ankit-sharma-7843aa187)
 
 
-<img align = "center"  src = "https://github-readme-stats.vercel.app/api?username=ANKITSHARMA98&count_private=true&show_icons=true&theme=dracula"><br>
-<a href="https://github.com/ANKITSHARMA98">
+
+<img align = "center"  src = "https://github-readme-stats.vercel.app/api?username=bakrtech&count_private=true&show_icons=true&theme=dracula"><br>
+<a href="https://github.com/bakrtech">
   
-<img align = "center" src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ANKITSHARMA98&theme=dracula"><br>
+<img align = "center" src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bakrtech&theme=dracula"><br>
   
 </a>
  
